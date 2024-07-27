@@ -32,6 +32,8 @@ env/
 *.out
 *.pyc
 *.nc
+!examples/ml-examples/mnist_test_images.nc
+!examples/ml-examples/mnist_train_images.nc
 *.json
 */pnetcdf/*.c
 core.*
